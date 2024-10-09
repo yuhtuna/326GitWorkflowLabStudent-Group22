@@ -41,7 +41,6 @@ ensuring the production branch is reliably functional.
 - [ ] Implement square function
 - [ ] Add keyboard support for number input
 - [ ] Improve the design (CSS styling)
-- [ ] Memory Store (`MS`), Recall (`MR`), and Clear (`MC`)
 - [ ] Fix reciprocal function
 - [ ] Implement sine function
 - [ ] Implement cosine function
