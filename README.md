@@ -98,10 +98,8 @@ the roadmap for future improvements and features:
 
 In your group of 4 each student should assign themselves a number 1-4. Each person will be pushing one change to the repository and reviewing one change made by another student.
 
-1. (STUDENT #1) Select 1 issue from the list above and create corresponding ticket on GitHub issues. Include descriptions, tags, and assignments in the issues. Assigning one issue to yourself and setting the reviewer to be STUDENT #2.
-2. (TA #1) Create the branch corresponding to the issue assigned to yourself. Make and push any changes to complete the issue. Don't forget about adding and running tests in the tests file. Create a pull request for the branch and assign the TA #2 as a reviewer.
-3. (TA #2) Create the branch corresponding to the issue assigned to yourself. Make and push any changes to complete the issue. Don't forget about adding and running tests in the tests file. Create a pull request for the branch and assign the TA #1 as a reviewer.
-4. (TA #2) Review the PR from TA #1 and create any necessary comments.
-5. (TA #1) Respond to the TA #1 comments and make any additional commits to fix the changes.
-6. (TA #1) Take a look at TA #2's PR, and approve/merge it if everything looks good.
-7. (TA #2) Approve/merge TA #1's PR.
+1. (STUDENT #1) Select 1 issue from the list above and create corresponding ticket on GitHub issues. Include descriptions, tags, and assignments in the issues. Make sure to assigning the issue to yourself.
+2. (STUDENT #1) Create the branch corresponding to the issue assigned to yourself. Make and push any changes to complete the issue. Don't forget about adding and running tests in the tests file. Create a pull request for the branch and assign the STUDENT #2 as a reviewer.
+3. (STUDENT #2) Review the PR from STUDENT #1 and create any necessary comments (write at least one comment).
+4. (STUDENT #1) Respond to the TA #1 comments and make any additional commits to fix the changes.
+5. (STUDENT #2) Check that any comments are resolved and then approve/merge TA #1's PR.
