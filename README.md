@@ -103,3 +103,5 @@ In your group of 4 each student should assign themselves a number 1-4. Each pers
 3. (STUDENT #2) Review the PR from STUDENT #1 and create any necessary comments (write at least one comment).
 4. (STUDENT #1) Respond to the TA #1 comments and make any additional commits to fix the changes.
 5. (STUDENT #2) Check that any comments are resolved and then approve/merge TA #1's PR.
+
+Repeat steps 1 through 6 for pairs of students 2 and 3, 3 and 4, 4 and 1. Everyone should be commiting one change to the repository and reviewing another student's change.
