@@ -43,6 +43,9 @@ ensuring the production branch is reliably functional.
 - [ ] Improve the design (CSS styling)
 - [ ] Memory Store (`MS`), Recall (`MR`), and Clear (`MC`)
 - [ ] Fix reciprocal function
+- [ ] Implement sine function
+- [ ] Implement cosine function
+- [ ] Implement tangent function
 
 ## How to Set Up The Lab
 
