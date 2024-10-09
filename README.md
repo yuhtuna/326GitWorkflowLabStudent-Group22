@@ -44,27 +44,27 @@ ensuring the production branch is reliably functional.
 - [ ] Memory Store (`MS`), Recall (`MR`), and Clear (`MC`)
 
 ### Bugs:
-- [ ] Fix reciprocal function
-
 1. **Basic Calculator Expansion**:
+   - [ ] Fix reciprocal function
+
    - [ ] Implement scientific calculator functions like square root, square, and
          reciprocal.
    - [ ] Add more advanced memory functions, such as memory addition and
          subtraction (`M+`, `M-`).
 
-2. **UI/UX Improvements**:
+3. **UI/UX Improvements**:
    - [ ] Design a more user-friendly and modern UI.
    - [ ] Add responsiveness for mobile devices.
 
-3. **Input & Error Handling**:
+4. **Input & Error Handling**:
    - [ ] Enable keyboard input for numbers and operations.
    - [ ] Improve error handling with better feedback for the user.
 
-4. **Testing**:
+5. **Testing**:
    - [ ] Add unit tests for core functions.
    - [ ] Implement end-to-end tests for UI and functionality.
 
-5. **Documentation**:
+6. **Documentation**:
    - [ ] Write detailed function explanations for new features.
    - [ ] Create usage examples in the `README`.
 
