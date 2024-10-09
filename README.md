@@ -90,7 +90,7 @@ ensuring the production branch is reliably functional.
 
 ## Presentation Instructions
 
-In your group of 7 each student should assign themselves a number 1-7. Each person will be pushing one change to the repository and reviewing one change made by another student.
+In your group of 7 each student should assign themselves a number 1-7. Make sure this assignment is clear to everyone! Each person will be pushing one change to the repository and reviewing one change made by another student.
 
 1. (STUDENT #1) Select 1 issue from the list above (Bug fixes or TODO features) and create corresponding ticket on GitHub issues. Include descriptions, tags, and assignments in the issues. Make sure to assigning the issue to yourself.
 2. (STUDENT #1) Create the branch corresponding to the issue assigned to yourself. Make and push any changes to complete the issue. Don't forget about adding and running tests in the tests file. Create a pull request for the branch and assign the STUDENT #2 as a reviewer.
