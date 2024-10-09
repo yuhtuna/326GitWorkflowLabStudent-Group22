@@ -42,31 +42,7 @@ ensuring the production branch is reliably functional.
 - [ ] Add keyboard support for number input
 - [ ] Improve the design (CSS styling)
 - [ ] Memory Store (`MS`), Recall (`MR`), and Clear (`MC`)
-
-### Bugs:
-1. **Basic Calculator Expansion**:
-   - [ ] Fix reciprocal function
-
-   - [ ] Implement scientific calculator functions like square root, square, and
-         reciprocal.
-   - [ ] Add more advanced memory functions, such as memory addition and
-         subtraction (`M+`, `M-`).
-
-3. **UI/UX Improvements**:
-   - [ ] Design a more user-friendly and modern UI.
-   - [ ] Add responsiveness for mobile devices.
-
-4. **Input & Error Handling**:
-   - [ ] Enable keyboard input for numbers and operations.
-   - [ ] Improve error handling with better feedback for the user.
-
-5. **Testing**:
-   - [ ] Add unit tests for core functions.
-   - [ ] Implement end-to-end tests for UI and functionality.
-
-6. **Documentation**:
-   - [ ] Write detailed function explanations for new features.
-   - [ ] Create usage examples in the `README`.
+- [ ] Fix reciprocal function
 
 ## How to Set Up The Lab
 
@@ -92,7 +68,7 @@ ensuring the production branch is reliably functional.
 
 In your group of 7 each student should assign themselves a number 1-7. Make sure this assignment is clear to everyone! Each person will be pushing one change to the repository and reviewing one change made by another student.
 
-1. (STUDENT A) Select 1 issue from the list above (Bug fixes or TODO features) and create corresponding ticket on GitHub issues. Include descriptions, tags, and assignments in the issues. Make sure to assigning the issue to yourself.
+1. (STUDENT A) Select 1 issue from the list above (TODO features) and create corresponding ticket on GitHub issues. Include descriptions, tags, and assignments in the issues. Make sure to assigning the issue to yourself.
 2. (STUDENT A) Create the branch corresponding to the issue assigned to yourself. Make and push any changes to complete the issue. Don't forget about adding and running tests in the tests file. Create a pull request for the branch and assign the STUDENT #2 as a reviewer.
 3. (STUDENT B) Review the PR from STUDENT #1 and create any necessary comments (write at least one comment).
 4. (STUDENT A) Respond to the STUDENT #1 comments and make any additional commits to fix the changes.
