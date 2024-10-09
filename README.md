@@ -46,12 +46,6 @@ ensuring the production branch is reliably functional.
 ### Bugs:
 - [ ] Fix reciprocal function
 
-## Roadmap
-
-The goal of this project is to create a fully functioning and visually appealing
-JavaScript calculator, while encouraging contributions and learning. Below is
-the roadmap for future improvements and features:
-
 1. **Basic Calculator Expansion**:
    - [ ] Implement scientific calculator functions like square root, square, and
          reciprocal.
@@ -76,8 +70,8 @@ the roadmap for future improvements and features:
 
 ## How to Set Up The Lab
 
-1. Fork the template
-2. Add all contributing TAs to the list of repository contributors
+1. Fork this template repository (have only ONE student do this)
+2. Add all contributing students to the list of repository contributors
 3. Create ticket in Issue's tab
 4. Clone your fork:
    ```bash
@@ -98,7 +92,7 @@ the roadmap for future improvements and features:
 
 In your group of 7 each student should assign themselves a number 1-7. Each person will be pushing one change to the repository and reviewing one change made by another student.
 
-1. (STUDENT #1) Select 1 issue from the list above and create corresponding ticket on GitHub issues. Include descriptions, tags, and assignments in the issues. Make sure to assigning the issue to yourself.
+1. (STUDENT #1) Select 1 issue from the list above (Bug fixes or TODO features) and create corresponding ticket on GitHub issues. Include descriptions, tags, and assignments in the issues. Make sure to assigning the issue to yourself.
 2. (STUDENT #1) Create the branch corresponding to the issue assigned to yourself. Make and push any changes to complete the issue. Don't forget about adding and running tests in the tests file. Create a pull request for the branch and assign the STUDENT #2 as a reviewer.
 3. (STUDENT #2) Review the PR from STUDENT #1 and create any necessary comments (write at least one comment).
 4. (STUDENT #1) Respond to the TA #1 comments and make any additional commits to fix the changes.
