@@ -98,4 +98,4 @@ In your group of 7 each student should assign themselves a number 1-7. Make sure
 4. (STUDENT #1) Respond to the STUDENT #1 comments and make any additional commits to fix the changes.
 5. (STUDENT #2) Check that any comments are resolved and then approve/merge STUDENT #1's PR.
 
-Repeat steps 1 through 6 for pairs of students 2 and 3, 3 and 4, ..., 6 and 7, 7 and 1. Everyone should be commiting one change to the repository and reviewing another student's change.
+Repeat steps 1 through 5 for pairs of students 2 and 3, 3 and 4, ..., 6 and 7, 7 and 1. Everyone should be commiting one change to the repository and reviewing another student's change.
