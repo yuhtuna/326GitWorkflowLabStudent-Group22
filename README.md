@@ -66,6 +66,11 @@ ensuring the production branch is reliably functional.
    git push origin feature/my-feature
    ```
 
+## Setup
+1. Install node.js (if not already on system) https://nodejs.org/en/download/package-manager/
+2. Run `npm i` to install project dependencies.
+3. Use `npm run test` in order to verify that project tests run as expected.
+
 ## Instructions
 
 In your group of 7 each student should assign themselves a number 1-7. Make sure this assignment is clear to everyone! Each person will be pushing one change to the repository and reviewing one change made by another student.
