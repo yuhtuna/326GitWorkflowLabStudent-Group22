@@ -49,7 +49,7 @@ function calculateSquare() {
     // Hint: Use exponentiation
 }
 
-// BUG: FIX reciprocal function
+// TODO: FIX reciprocal function
 function calculateReciprocal() {
     // Hint: Reciprocal is 1/x
     display.value = 1-value;
