@@ -81,4 +81,8 @@ In your group of 7 each student should assign themselves a number 1-7. Make sure
 4. (STUDENT A) Respond to the STUDENT #1 comments and make any additional commits to fix the changes.
 5. (STUDENT B) Check that any comments are resolved and then approve/merge STUDENT #1's PR.
 
-Repeat steps 1 through 5 for pairs of students 1 and 2, 2 and 3, 3 and 4, ..., 6 and 7, 7 and 1. Everyone should be commiting one change to the repository and then reviewing the next student's change.
+Repeat steps 1 through 5 for pairs of students 1 and 2, 2 and 3, 3 and 4, ..., 6 and 7, 7 and 1. Everyone should be commiting one change to the repository and then reviewing the next student's change. If you have less than 7 students in your group, reduce the pairs accordingly following the same pattern.
+
+## Submission
+
+Once you have completed the activity, upload a link of the forked repository to the gradescope assignment. Make sure the repository visibility is set to public.
