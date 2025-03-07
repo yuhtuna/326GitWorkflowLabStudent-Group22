@@ -2,7 +2,10 @@
 
 // TODO: Fix the square root function not displaying
 function calculateSquareRoot(value) {
-    
+    const num = parseFloat(value);
+    if (isNaN(num)) throw new Error("Invalid number");
+    if (num < 0) throw new Error("Negative input");
+    return Math.sqrt(num);
     // return the square root of the value
 }
 
